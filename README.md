@@ -1,4 +1,2 @@
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoacabouz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoacabouz&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github.com/joaoacabouz/joaoacabouz/raw/main/assets/stats.svg)
+![Top Languages](https://github.com/joaoacabouz/joaoacabouz/raw/main/assets/top-langs.svg)
