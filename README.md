@@ -20,7 +20,7 @@ Welcome. I am a dedicated software developer focused on building efficient and s
 ![Joao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoacabouz&show_icons=true&theme=dark)
 
 ## 🤝 Connect
-- [LinkedIn](https://linkedin.com/in/joaoacabou)
+- [LinkedIn](https://linkedin.com/in/joão-acabou-988673219)
 - [Portfolio](work on progress)
 
 ---
